@@ -7,4 +7,5 @@ This app allow us to ploting and view stock market close price through yfinance 
 You can visit on website to check it out:  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abrahantorres-stock-streamlit-appproject-streamlit-app-4yy84h.streamlitapp.com/)
 
 
-![img/Diagram_UBER.jpg](images/stock.png)
+<img src="images/stock.png" alt="drawing" style="width:600px;"/>
+
